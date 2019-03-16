@@ -1,3 +1,8 @@
+# Wordpress Theme - Goggle AMP
+We are using Sage as a base theme, please see #Sage section for how to install this project
+
+We are using AMP Starter as a base design (AMP / HTML): https://www.ampstart.com/templates#news-blog
+
 # [Sage](https://roots.io/sage/)
 [![Packagist](https://img.shields.io/packagist/vpre/roots/sage.svg?style=flat-square)](https://packagist.org/packages/roots/sage)
 [![devDependency Status](https://img.shields.io/david/dev/roots/sage.svg?style=flat-square)](https://david-dm.org/roots/sage#info=devDependencies)
