@@ -1,0 +1,16 @@
+{
+  "entry": {
+    "main": [
+      "./amp_sass/amp.scss"
+    ]
+  },
+  "publicPath": "/wp-content/themes/amp-blog",
+  "devUrl": "http://localhost:8080",
+  "proxyUrl": "http://localhost:3000",
+  "cacheBusting": "[name]_[hash:8]",
+  "watch": [
+    "app/**/*.php",
+    "config/**/*.php",
+    "resources/views/**/*.php"
+  ]
+}
